@@ -1,5 +1,5 @@
 - 👋 Soy @LucioRamirezB  y  llevo un poco más de 4 años trabajando con PHP, SQL, JQuery, Javascript, JSON, Bootstrap, CSS y HTML.
-- 👀 Me interesa crecer mas en el área de desarro web y colaborar en proyectos de PHP.
+- 👀 Me interesa crecer mas en el área de desarrollo web y colaborar en proyectos de PHP.
 - 🌱 Actualmente estoy aprendiendo  laravel,  Git y entre otras tecnologías.
 - LLevo trabajando casi 4 años en Chocolates Picard  https://chocolate.com.mx/
 -  Desarrollé  su facturación en línea de las Boutiques,  encuesta de satisfacción del cliente y entre otros proyectos intranet.
