@@ -1,5 +1,5 @@
 # Lucio Ramirez
-!(https://avatars.githubusercontent.com/u/99760835?v=4)
+![Foto de perfil](https://avatars.githubusercontent.com/u/99760835?v=4)
 ### Programador
 - 👋 Soy @LucioRamirezB  y  llevo un poco más de 4 años trabajando con PHP, SQL, JQuery, Javascript, JSON, Bootstrap, CSS y HTML.
 - 👀 Me interesa crecer mas en el área de desarrollo web y colaborar en proyectos de PHP.
